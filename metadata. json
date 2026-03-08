@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Voice AI",
+  "description": "A modern multilingual AI voice assistant supporting English, Hindi, and Marathi with real-time speech-to-text and intelligent responses.",
+  "requestFramePermissions": ["microphone"]
+}
